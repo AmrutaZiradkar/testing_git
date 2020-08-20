@@ -5,6 +5,8 @@
     <classes>
       <class name="auto_labs.facebook_login"/>
       <class name="auto_labs.facebook_logo"/>
+<class name="auto_labs.facebook1_logo"/>
+<class name="auto_labs.facebook2_logo"/>
       
     </classes>
   </test> <!-- Test -->
